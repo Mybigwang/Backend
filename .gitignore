@@ -1,0 +1,21 @@
+node_modules
+
+# Environment
+.env
+.env*.local
+
+# Next.js
+.next
+out/
+
+# Database
+*.db
+*.db-journal
+
+# Testing
+coverage/
+
+# Misc
+.claude
+*.pdf
+作业说明.md
